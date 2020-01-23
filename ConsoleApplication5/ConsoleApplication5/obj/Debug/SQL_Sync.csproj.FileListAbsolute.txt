@@ -1,0 +1,13 @@
+c:\users\janlouis.nortje\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\SQL_Sync.csprojResolveAssemblyReference.cache
+c:\users\janlouis.nortje\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\SQL_Sync.exe.config
+c:\users\janlouis.nortje\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\SQL_Sync.exe
+c:\users\janlouis.nortje\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\SQL_Sync.pdb
+c:\users\janlouis.nortje\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\SQL_Sync.exe
+c:\users\janlouis.nortje\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\SQL_Sync.pdb
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\SQL_Sync.exe.config
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\SQL_Sync.exe
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\SQL_Sync.pdb
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\SQL_Sync.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\SQL_Sync.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\SQL_Sync.exe
+D:\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\SQL_Sync.pdb

@@ -1,0 +1,11 @@
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/bin/Debug/netcoreapp3.1/SqlSync
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/bin/Debug/netcoreapp3.1/SqlSync.deps.json
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/bin/Debug/netcoreapp3.1/SqlSync.runtimeconfig.json
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/bin/Debug/netcoreapp3.1/SqlSync.runtimeconfig.dev.json
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/bin/Debug/netcoreapp3.1/SqlSync.dll
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/bin/Debug/netcoreapp3.1/SqlSync.pdb
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/obj/Debug/netcoreapp3.1/SqlSync.csprojAssemblyReference.cache
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/obj/Debug/netcoreapp3.1/SqlSync.AssemblyInfoInputs.cache
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/obj/Debug/netcoreapp3.1/SqlSync.AssemblyInfo.cs
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/obj/Debug/netcoreapp3.1/SqlSync.dll
+/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/obj/Debug/netcoreapp3.1/SqlSync.pdb

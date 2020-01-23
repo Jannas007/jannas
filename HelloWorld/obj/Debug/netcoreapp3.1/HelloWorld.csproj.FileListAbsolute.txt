@@ -1,0 +1,11 @@
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.deps.json
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.json
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.runtimeconfig.dev.json
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.dll
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/bin/Debug/netcoreapp3.1/HelloWorld.pdb
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.csprojAssemblyReference.cache
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfoInputs.cache
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.AssemblyInfo.cs
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.dll
+/home/jannas/Documents/VisualStudioCode/Projects/HelloWorld/obj/Debug/netcoreapp3.1/HelloWorld.pdb
