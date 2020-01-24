@@ -9,3 +9,14 @@
 /home/jannas/Documents/VisualStudioCode/Projects/SqlSync/obj/Debug/netcoreapp3.1/SqlSync.AssemblyInfo.cs
 /home/jannas/Documents/VisualStudioCode/Projects/SqlSync/obj/Debug/netcoreapp3.1/SqlSync.dll
 /home/jannas/Documents/VisualStudioCode/Projects/SqlSync/obj/Debug/netcoreapp3.1/SqlSync.pdb
+Z:\Documents\VisualStudioCode\jannas\SqlSync\bin\Debug\netcoreapp3.1\SqlSync.exe
+Z:\Documents\VisualStudioCode\jannas\SqlSync\bin\Debug\netcoreapp3.1\SqlSync.deps.json
+Z:\Documents\VisualStudioCode\jannas\SqlSync\bin\Debug\netcoreapp3.1\SqlSync.runtimeconfig.json
+Z:\Documents\VisualStudioCode\jannas\SqlSync\bin\Debug\netcoreapp3.1\SqlSync.runtimeconfig.dev.json
+Z:\Documents\VisualStudioCode\jannas\SqlSync\bin\Debug\netcoreapp3.1\SqlSync.dll
+Z:\Documents\VisualStudioCode\jannas\SqlSync\bin\Debug\netcoreapp3.1\SqlSync.pdb
+Z:\Documents\VisualStudioCode\jannas\SqlSync\obj\Debug\netcoreapp3.1\SqlSync.csprojAssemblyReference.cache
+Z:\Documents\VisualStudioCode\jannas\SqlSync\obj\Debug\netcoreapp3.1\SqlSync.AssemblyInfoInputs.cache
+Z:\Documents\VisualStudioCode\jannas\SqlSync\obj\Debug\netcoreapp3.1\SqlSync.AssemblyInfo.cs
+Z:\Documents\VisualStudioCode\jannas\SqlSync\obj\Debug\netcoreapp3.1\SqlSync.dll
+Z:\Documents\VisualStudioCode\jannas\SqlSync\obj\Debug\netcoreapp3.1\SqlSync.pdb

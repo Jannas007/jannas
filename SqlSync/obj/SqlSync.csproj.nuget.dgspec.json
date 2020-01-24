@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/SqlSync.csproj": {}
+    "Z:\\Documents\\VisualStudioCode\\jannas\\SqlSync\\SqlSync.csproj": {}
   },
   "projects": {
-    "/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/SqlSync.csproj": {
+    "Z:\\Documents\\VisualStudioCode\\jannas\\SqlSync\\SqlSync.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/SqlSync.csproj",
+        "projectUniqueName": "Z:\\Documents\\VisualStudioCode\\jannas\\SqlSync\\SqlSync.csproj",
         "projectName": "SqlSync",
-        "projectPath": "/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/SqlSync.csproj",
-        "packagesPath": "/home/jannas/.nuget/packages/",
-        "outputPath": "/home/jannas/Documents/VisualStudioCode/Projects/SqlSync/obj/",
+        "projectPath": "Z:\\Documents\\VisualStudioCode\\jannas\\SqlSync\\SqlSync.csproj",
+        "packagesPath": "C:\\Users\\jannas\\.nuget\\packages\\",
+        "outputPath": "Z:\\Documents\\VisualStudioCode\\jannas\\SqlSync\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jannas/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jannas\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
